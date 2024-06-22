@@ -32,7 +32,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
 - :student: Bachelor's degree `Computer Science`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://csmodernacademyedu-my.sharepoint.com/:b:/g/personal/adam120000067_cs_modern-academy_edu_eg/Edss2X9CkxlHrZVUoCIteesB_TqF4I6Y1xseZ75GLpDI5w?e=XggCrN).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://csmodernacademyedu-my.sharepoint.com/:b:/g/personal/adam120000067_cs_modern-academy_edu_eg/EYx4arF5mNJDlyEDSn73tPYBHy9SKGe1gK3b2oPhAsVObw?e=wKWIRm).
 - :boom: You can visit [MY WEBSITE](https://github.com/AdamOsama9080).
 <br>
 
