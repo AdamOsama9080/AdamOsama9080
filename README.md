@@ -350,5 +350,10 @@
 	
 ## 🐍 A Snake Eating my Contributions Graph
 
-
-![snake gif](https://github.com/AdamOsama9080/AdamOsama9080/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="dist/snake.svg">
+    <img alt="GitHub Snake" src="dist/snake.svg">
+  </picture>
+</p>
