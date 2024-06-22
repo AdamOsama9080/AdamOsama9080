@@ -351,14 +351,4 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 
- <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AdamOsama9080/AdamOsama9080/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AdamOsama9080/AdamOsama9080/blob/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://github.com/AdamOsama9080/AdamOsama9080/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <img alt="snake gif" src="https://github.com/AdamOsama9080/AdamOsama9080/blob/output/github-contribution-grid-snake.gif">
-</p>
+![snake gif](https://github.com/AdamOsama9080/AdamOsama9080/blob/output/github-contribution-grid-snake.gif)
