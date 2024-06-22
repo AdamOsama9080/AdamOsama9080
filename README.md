@@ -350,10 +350,3 @@
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="dist/snake.svg">
-    <img alt="GitHub Snake" src="dist/snake.svg">
-  </picture>
-</p>
